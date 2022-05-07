@@ -1,7 +1,7 @@
 # Syntax-highlighting-for-HYSDEL
 Syntax highlighting for HYSDEL 3.0 language in UltraEdit 26.20.0.6
 
-![alt text](https://github.com/A-Safi/Syntax-highlighting-for-HYSDEL/SyntaxPreview.bmp?raw=true)
+![alt text](https://github.com/A-Safi/Syntax-highlighting-for-HYSDEL/SyntaxPreview.jpg?raw=true)
 
 1. Copy your ".uew" file to "C:\Users\<username>\AppData\Roaming\IDMComp\UltraEdit\wordfiles"
 

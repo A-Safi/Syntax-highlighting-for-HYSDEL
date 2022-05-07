@@ -15,7 +15,7 @@ Syntax highlighting for HYSDEL 3.0 language in UltraEdit 26.20.0.6
 
 6. Click on "Add existing theme..."
 
-7. Add ".Theme" file.
+7. Add ".ue-theme" file.
 
 Enjoy!!
 

@@ -1,0 +1,54 @@
+/L16"HYSDEL" HYSDEL_LANG Block Comment On = /* Block Comment Off = */ File Extensions = HYS
+/LanguageMarker = "HYSDEL"
+/Indent Strings = "{"
+/Unindent Strings = "}"
+/Open Brace Strings = "(" "[" "{"
+/Close Brace Strings = ")" "]" "}"
+/C1"Keywords"
+FOR
+IF
+THEN
+ELSE
+/C2"Functions1"
+INTERFACE
+IMPLEMENTATION
+SYSTEM
+
+/C3"VarType"
+BOOL
+INDEX
+REAL
+
+/C4"Functions2"
+CONTINUOUS
+AD
+AUX
+DA
+PARAMETER
+STATE
+INPUT
+OUTPUT
+MODULE
+PARAMETER
+AOUTOMATA
+LINEAR
+LOGIC
+MUST
+/C5"Operators"
+!
+%
+&
+*
++
+-
+// /
+<
+=
+>
+^
+|
+~
+/C6"EendLine"
+;
+
+

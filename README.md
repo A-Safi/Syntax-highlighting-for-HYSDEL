@@ -1,5 +1,5 @@
 # Syntax-highlighting-for-HYSDEL
-Syntax highlighting for HYSDEL 3.0 language in UltraEdit
+Syntax highlighting for HYSDEL 3.0 language in UltraEdit 26.20.0.6
 
 1. Copy your ".uew" file to "C:\Users\<username>\AppData\Roaming\IDMComp\UltraEdit\wordfiles"
 
